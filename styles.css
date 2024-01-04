@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #productForm,
+  #productList,
+  #totalStockValue {
+    margin-bottom: 30px;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  button {
+    margin: 5px;
+    padding: 8px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  #totalValue {
+    font-weight: bold;
+  }
+  
